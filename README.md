@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Jade!</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>First Project Test</b>
+  - [HyperLink of the repo](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📃 Certifications </h2>
+  
+- <b>Object-oriented Software Development</b>
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JadeBayot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JadeBayot | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/ljademagliquian/
+[linkedin]: https://www.linkedin.com/in/louise-jade-bayot-a78291245
 
 <!--
-**jadebayot/jadebayot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
