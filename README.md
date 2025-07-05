@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>First Project Test</b>
-  - [HyperLink of the repo](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Travel Experts Web App</b>
+  - [C#/ASP.Net]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/jadebayot/TravelExpertsWebApp)
+
+- <b>Travel Experts Desktop App</b>
+  - [C#/.NET CORE]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/jadebayot/TravelExpertsWebApp)
 
 <h2>📃 Certifications </h2>
   
