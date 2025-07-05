@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jade! <br/><a href="https://github.com/jadebayot">Programmer</a>, <a href="www.linkedin.com/in/louise-jade-bayot-a78291245">Software Developer</a></h1>
+<h1>Hi, I'm Jade! <br/><a href="https://github.com/jadebayot">Programmer</a>, <a href="https://linkedin.com/in/louise-jade-bayot-a78291245">Software Developer</a></h1>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
